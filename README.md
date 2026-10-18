@@ -1,5 +1,3 @@
-# claude-code-pm-skill
-
 <p align="center">
   <img src="assets/logo.png" alt="Claude Code PM Octopus Mascot" width="220" style="border-radius: 20px;" />
 </p>
